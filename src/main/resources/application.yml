@@ -12,3 +12,6 @@ server:
 kafka:
     bootstrap-servers: 9092
 
+test:
+  topic: embedded-test-topic
+
